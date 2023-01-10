@@ -1,0 +1,11 @@
+{
+  "name": "behemotical",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Hej!\" && exit 1"
+  },
+  "author": "futured_it",
+  "license": "MIT"
+}
