@@ -4,11 +4,13 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Hej!\" && exit 1"
+    "test": "echo \"Hej!\" && exit 1",
+    "start": "node main.js"
   },
   "author": "futured_it",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "^14.7.1"
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
   }
 }
