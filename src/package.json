@@ -11,6 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "discord.js": "^14.7.1",
-    "dotenv": "^16.0.3"
+    "dotenv": "^16.0.3",
+    "images-scraper": "^6.4.2"
   }
 }
